@@ -44,15 +44,15 @@ PRODUCT_PACKAGES += \
     libipanat \
     liboffloadhal
 
-### NETWORKSWITCHER APK
-PRODUCT_PACKAGES += \
-    NetworkSwitcher
-
 ### NFC
 PRODUCT_PACKAGES += \
     com.android.nfc_extras \
     NfcNci \
     Tag
+
+### OPENCUSTOMIZATIONSELECTOR
+PRODUCT_PACKAGES += \
+    CustomizationSelector
 
 ### REMOVE UNWANTED PACKAGES
 PRODUCT_PACKAGES += \
@@ -207,3 +207,7 @@ PRODUCT_PACKAGES += \
     wificond \
     wpa_supplicant \
     wpa_supplicant.conf
+
+### XPERIAPARTS
+PRODUCT_PACKAGES += \
+    XperiaParts

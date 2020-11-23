@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="back_button_label">ተመለስ</string>
+    <string name="more_button_label">ተጨማሪ</string>
+    <string name="next_button_label">ቀጣይ</string>
+</resources>

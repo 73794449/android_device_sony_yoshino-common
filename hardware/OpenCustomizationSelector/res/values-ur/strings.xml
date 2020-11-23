@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="back_button_label">پیچھے</string>
+    <string name="more_button_label">مزید</string>
+    <string name="next_button_label">آگے</string>
+</resources>

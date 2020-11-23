@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="customization_restart_desc_txt">Uw apparaat wordt nu opnieuw opgestart voor optimalisatie voor uw netwerkoperator.</string>
+    <string name="back_button_label">Terug</string>
+    <string name="more_button_label">Meer</string>
+    <string name="next_button_label">Volgende</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="back_button_label">Orqaga</string>
+    <string name="more_button_label">Yana</string>
+    <string name="next_button_label">Keyingisi</string>
+</resources>
